@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Aula</title>
+</head>
+<body>
+    <header>
+      <img src="https://s2.glbimg.com/4sQ1yx9YToAMFl8geDlqP6Z9lWQ=/0x0:895x600/984x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2023/x/L/o45dBlSHmr9ubjA2fJbw/nuvem-gigante-peruibe.jpg" alt="Nuvem de tempestade no litoral">
+      <nav>
+        <ul>
+          <li><a href="https://portal.inmet.gov.br/">Inmet</a></li>
+          <li><a href="https://www.climatempoconsultoria.com.br/">Climatempo</a></li>
+          <li><a href="https://clima1.cptec.inpe.br/">CPTEC/INPE</a></li>
+        </ul>
+      </nav>
+    </header>
+    
+    <nav>
+      <form role="search" aria-label="site">
+        <label>
+          <span>Search</span>
+          <input type="search"/>
+        </label>
+        <button type="submit">Submit</button>
+      </form>
+      <ul>
+          <li><a href="#">Previsão do tempo</a></li>
+          <li><a href="#">Previsão climática</a></li>
+          <li><a href="#">Mapa das condições</a></li>
+          <li><a href="#">Precipitação acumulada</a></li>
+          <li><a href="#">Extremos de temperatura</a></li>
+      </ul>
+    </nav>
+    
+      <main>
+        <article>
+          <h1>Previsão do tempo</h1>
+          <p>Previsão para todo o Brasil</p>
+          <h2>Cartas Sinóticas</h2>
+          <p>Análise completa</p>
+        </article>
+    </main>
+   
+    <aside>
+      <section>
+        <h1>Redes Sociais</h1>
+        <ul>
+          <li><a href="#">Facebook</a></li>
+          <li><a href="#">Twitter</a></li>
+          <li><a href="#">Instagram</a></li>
+        </ul>
+      </section>
+      <section>
+        <h1>Artigos recomendados</h1><ul>
+          <li><a href="#">Artigo Relacionado</a></li>
+          <li><a href="#">Artigo Relacionado</a></li>
+        </ul>
+      </section>
+    </aside>
+   
+    <footer>
+      <h3>Rodapé</h3>
+      <ul>
+        <li><a href="#">Link 1</a></li>
+        <li><a href="#">Link 2</a></li>
+        <li><a href="#">Link 3</a></li>
+        <li><a href="#">Link 4</a></li>
+        <li><a href="#">Link 5</a></li>
+      </ul>
+    </footer>
+</body>
+</html>
